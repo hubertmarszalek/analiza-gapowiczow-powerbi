@@ -137,4 +137,4 @@ Power BI Desktop · Power Query (M) · DAX · Excel
 ```
 
 ## Autor
-**[Imię Nazwisko]** · [LinkedIn](https://www.linkedin.com/in/twoj-profil) · projekt zrealizowany w ramach nauki analizy danych
+Hubert Marszałek · [LinkedIn](https://www.linkedin.com/in/hubert-marsza%C5%82ek/) · projekt zrealizowany w ramach nauki analizy danych
