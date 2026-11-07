@@ -1,0 +1,11 @@
+﻿numer_linii;typ_linii;przystanek_poczatkowy;przystanek_koncowy;dlugosc_km;liczba_przystankow
+ 105;dzienna;Dworzec Główny;Osiedle Słoneczne;12,4;28
+112;Dzienna;Rynek;Park Technologiczny;9,8;22
+130;dzienna;Dworzec Główny;Szpital Miejski;14,1;31
+144;DZIENNA;Stadion;Uniwersytet;8,6;19
+152;dzienna;Osiedle Leśne;Centrum Handlowe;11,2;25
+173 ;dzienna;Rynek;Zajezdnia Północ;15,7;34
+208;podmiejska;Dworzec Główny;Gmina Brzozów;24,3;30
+222;podmiejska;Zajezdnia Północ;Gmina Dębina;21,8;27
+N01;nocna;Dworzec Główny;Osiedle Słoneczne;16,9;33
+N05;Nocna ;Rynek;Uniwersytet;13,5;29
