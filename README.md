@@ -40,8 +40,8 @@ Projekt analityczny end-to-end: od surowych, „brudnych” danych w CSV, przez 
 | Strona | Pytanie |
 |---|---|
 | ![](gapowicze_str1.png) | **Ile tracimy?** KPI, strata na kurs wg linii, strata wg typu linii |
-| ![](images/03_kiedy.png) | **Kiedy jeżdżą gapowicze?** Kontrole a wskaźnik wg godziny, dni tygodnia, mapa ciepła dzień × godzina |
-| ![](images/04_kontrole.png) | **Czy kontrole się opłacają?** Ściągalność, koszt i ROI kontroli, analiza wrażliwości (parametr What-if) |
+| ![](gapowicze_str2.png) | **Kiedy jeżdżą gapowicze?** Kontrole a wskaźnik wg godziny, dni tygodnia, mapa ciepła dzień × godzina |
+| ![](gapowicze_str3.png) | **Czy kontrole się opłacają?** Ściągalność, koszt i ROI kontroli, analiza wrażliwości (parametr What-if) |
 
 ---
 
