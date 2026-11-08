@@ -4,7 +4,7 @@ Projekt analityczny end-to-end: od surowych, „brudnych” danych w CSV, przez 
 
 > **Uwaga:** projekt bazuje na **danych symulowanych** (fikcyjny przewoźnik, 10 linii autobusowych, I kwartał 2026). Dane celowo zawierają typowe problemy jakościowe, żeby odwzorować realną pracę analityka.
 
-![Podsumowanie](images/01_wnioski.png)
+![Podsumowanie](images/gapowicze_str4.png)
 
 ---
 
